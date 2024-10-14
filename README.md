@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Ein Gyin Moe
 
-### 🌟 About Me
-I'm a passionate **[Your Job Title]** from **[Your Location]**. I love working on projects that involve **[Your Interests/Technologies]** and enjoy learning new technologies and methodologies to enhance my skills.
+## 🌟 About Me
+I’m a passionate **Project Manager** currently based in Bangkok, Thailand with a strong background in . I specialize in driving projects from concept to completion, ensuring they are delivered on time, within scope, and aligned with business objectives. I thrive in dynamic environments and enjoy collaborating with cross-functional teams.
 
-- 🔭 Currently working on: **[Current Project or Area of Research]**
-- 🌱 Currently learning: **[Technologies or Skills You're Learning]**
-- 💬 Ask me about: **[Topics You're Knowledgeable About]**
-- ⚡ Fun fact: **[An Interesting Fact About Yourself]**
+- 🔭 **Currently working on**: Implementing Agile methodologies for improving team collaboration and project efficiency in software development.
+- 🌱 **Currently learning**: Advanced data analytics techniques and tools like Power BI and Tableau to enhance project reporting and insights, as well as change management strategies to better handle project transitions and stakeholder engagement.
+- 💬 **Ask me about**: Project management best practices and methodologies (Agile, Scrum, Kanban), team dynamics and leadership strategies for improving team performance, and risk management techniques to mitigate project risks effectively.
+- ⚡ **Fun fact**: I have a collection of over 100 unique coffee mugs from around the world, each with its own story and memory attached to it!
 
 ---
 
@@ -40,14 +40,16 @@ These are some of the tools I use for managing and developing my projects:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 - **Project Management:**
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Asana](https://img.shields.io/badge/-Asana-120C3C?style=flat-square&logo=asana&logoColor=white) 
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Asana](https://img.shields.io/badge/-Asana-120C3C?style=flat-square&logo=asana&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0072B8?style=flat-square&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-FFC700?style=flat-square&logo=scrum&logoColor=black) ![Kanban](https://img.shields.io/badge/Kanban-00C1D4?style=flat-square&logo=kanban&logoColor=white)
+ 
+- **Data Analysis Tools**: 
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F25028?style=flat-square&logo=powerbi&logoColor=white)
+
+- **Accounting Tools**: 
+![QuickBooks](https://img.shields.io/badge/QuickBooks-5FBB5A?style=flat-square&logo=quickbooks&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Tally](https://img.shields.io/badge/Tally-3E7B00?style=flat-square&logo=tally&logoColor=white)
 
 - **Collaboration Tools:**
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
- 
-- **Data Analysis Tools**: 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F25028?style=flat-square&logo=powerbi&logoColor=white) 
-
 
 ---
 
