@@ -55,6 +55,15 @@ These are some of the tools I use for managing and developing my projects:
 ### 📂 Projects
 Here are some of the projects I have worked on:
 
+
+1. **[Project Title 1]**
+[![Project Badge](https://img.shields.io/badge/Project%20Type-Example%20Type-blue?style=flat-square)](https://github.com/username/project-repo)  
+A brief description of the project, highlighting its purpose, technologies used, and your role in it. This could include features you implemented, challenges you overcame, or outcomes achieved.  
+ - Technologies: Technology1, Technology2, Technology3  
+ - Description: Briefly describe what this project is about and its technologies.
+ - Skills Used: [Technology 1, Technology 2, Technology 3]
+
+
 1. **[Project Title 1](https://github.com/yourusername/project1)**  
    - Description: Briefly describe what this project is about and its technologies.
    - Skills Used: [Technology 1, Technology 2, Technology 3]
