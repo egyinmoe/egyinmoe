@@ -51,11 +51,20 @@ These are some of the tools I use for managing and developing my projects:
 
 - **Project Management:**
   - ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
-  - ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+  - ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) 
+  - ![Asana](https://img.shields.io/badge/-Asana-120C3C?style=flat-square&logo=asana&logoColor=white) 
 
 - **Collaboration Tools:**
   - ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
   - ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
+  - ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
+ 
+  ### Data Analysis
+- **Tools**: 
+  - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) 
+  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F25028?style=flat-square&logo=powerbi&logoColor=white) 
+  - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
 
 ---
 
