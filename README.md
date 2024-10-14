@@ -19,34 +19,33 @@ I’m a passionate **Project Manager** currently based in Bangkok, Thailand with
 ---
 
 ### 🛠 Skills
-Here are some of the technologies and tools I work with:
-
-- **Programming Languages:** 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-- **Web Technologies:**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-- **Tools & Platforms:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
----
-
-### 🛠 Project Tools
 These are some of the tools I use for managing and developing my projects:
 
 - **Development Environments:**
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 - **Project Management:**
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Asana](https://img.shields.io/badge/-Asana-120C3C?style=flat-square&logo=asana&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0072B8?style=flat-square&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-FFC700?style=flat-square&logo=scrum&logoColor=black) ![Kanban](https://img.shields.io/badge/Kanban-00C1D4?style=flat-square&logo=kanban&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0072B8?style=flat-square&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-FFC700?style=flat-square&logo=scrum&logoColor=black) ![Kanban](https://img.shields.io/badge/Kanban-00C1D4?style=flat-square&logo=kanban&logoColor=white)
  
 - **Data Analysis Tools**: 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F25028?style=flat-square&logo=powerbi&logoColor=white)
 
+- **Tools & Platforms:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- **Programming Languages:** 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-00599C?style=flat-square&logo=java&logoColor=white) <!-- Using Java logo for OOP -->
+
+
+- **Web Technologies:**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 - **Accounting Tools**: 
 ![QuickBooks](https://img.shields.io/badge/QuickBooks-5FBB5A?style=flat-square&logo=quickbooks&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Tally](https://img.shields.io/badge/Tally-3E7B00?style=flat-square&logo=tally&logoColor=white)
+
+- **Digital Marketing Tools**:
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FBC634?style=flat-square&logo=google-analytics&logoColor=black) ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A00?style=flat-square&logo=hubspot&logoColor=white) ![Mailchimp](https://img.shields.io/badge/Mailchimp-FBBF00?style=flat-square&logo=mailchimp&logoColor=black)
+
 
 - **Collaboration Tools:**
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
