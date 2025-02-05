@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ein Gyin Moe
 
 ## 🌟 About Me
-I’m a passionate **Project Manager** currently based in Bangkok, Thailand with a strong background in . I specialize in driving projects from concept to completion, ensuring they are delivered on time, within scope, and aligned with business objectives. I thrive in dynamic environments and enjoy collaborating with cross-functional teams.
+I’m a passionate **Project Manager** currently based in Dublin, Ireland with a strong background in Project Management. I specialize in driving projects from concept to completion, ensuring they are delivered on time, within scope, and aligned with business objectives. I thrive in dynamic environments and enjoy collaborating with cross-functional teams.
 
 - 🔭 **Currently working on**: Implementing Agile methodologies for improving team collaboration and project efficiency in software development.
 - 🌱 **Currently learning**: Advanced data analytics techniques and tools like Power BI and Tableau to enhance project reporting and insights, as well as change management strategies to better handle project transitions and stakeholder engagement.
